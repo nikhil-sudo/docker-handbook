@@ -61,6 +61,14 @@ Docker is a platform or ecosystem around creating and running applications in co
     ```
 5. [Hello World](first.html)
 
+#### Get Familiar with some terms
+
+##### 1. Image 
+Single file with all the deps and config required to run a program. It can also be thought of file system snapshot of an application meant to be run on a kernel, along with a startup command for it.
+
+##### 2. Container
+Instance of an image Runs a program. Can also be thought of a Running process that issues command to kernel which internally routes it to hardware resources allocated to it.
+
 
 
 References: [Official Page](https://www.docker.com/why-docker) [Udemy Course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
