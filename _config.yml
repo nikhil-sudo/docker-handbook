@@ -1,1 +1,7 @@
+title: Docker Handbook
+description: [Comprehensive guide to Docker Commands and kubernetes]
 theme: jekyll-theme-hacker
+show_downloads: false
+markdown: kramdown
+kramdown:
+  parse_block_html: true
