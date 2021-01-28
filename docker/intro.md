@@ -27,7 +27,7 @@ Docker is a platform or ecosystem around creating and running applications in co
 2. [Docker Client for Windows/Mac](https://www.docker.com/products/docker-desktop)
 3. Login to the Docker Client installed on your machine.
 4. Verify docker installation, by running `$ docker version` in the terminal/power shell. Your output should look something similar to this 
-    ```javascript
+    ```
     _$ docker version
     Client: Docker Engine - Community
     Cloud integration: 1.0.7
